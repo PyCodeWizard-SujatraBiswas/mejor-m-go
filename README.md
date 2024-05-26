@@ -1,2 +1,2 @@
-# mejor-m-go
+# mejor Amigo
 Mental Health Assistant using Gemini pro LLM
